@@ -1,0 +1,310 @@
+2025-11-11 21:03:12,621 | INFO | patching driver executable C:\Users\PSID_PC_20\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-11 21:03:14,167 | INFO | No cookies found, manual verification needed.
+2025-11-11 21:03:32,259 | INFO | Cookies saved.
+2025-11-11 21:03:44,067 | INFO | [0] Saved html_pages\page_000.html
+2025-11-11 21:03:51,792 | WARNING | [1] Failed: Message: no such element: Unable to locate element: {"method":"css selector","selector":"ul#search-result"}
+  (Session info: chrome=142.0.7444.135); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xdd58d3
+	0xdd5914
+	0xbee76d
+	0xc3a09d
+	0xc3a47b
+	0xc81802
+	0xc5c9b4
+	0xc7eea6
+	0xc5c766
+	0xc2dac0
+	0xc2ede4
+	0x1057974
+	0x1052bea
+	0xdfe5c4
+	0xdedd38
+	0xdf4d9d
+	0xdddee8
+	0xdde0ac
+	0xdc7d2a
+	0x763b7ba9
+	0x77b7c3ab
+	0x77b7c32f
+
+2025-11-11 21:04:04,568 | WARNING | [2] Failed: Message: no such element: Unable to locate element: {"method":"css selector","selector":"ul#search-result"}
+  (Session info: chrome=142.0.7444.135); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xdd58d3
+	0xdd5914
+	0xbee76d
+	0xc3a09d
+	0xc3a47b
+	0xc81802
+	0xc5c9b4
+	0xc7eea6
+	0xc5c766
+	0xc2dac0
+	0xc2ede4
+	0x1057974
+	0x1052bea
+	0xdfe5c4
+	0xdedd38
+	0xdf4d9d
+	0xdddee8
+	0xdde0ac
+	0xdc7d2a
+	0x763b7ba9
+	0x77b7c3ab
+	0x77b7c32f
+
+2025-11-11 21:04:13,902 | WARNING | [3] Failed: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=142.0.7444.135); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xdd58d3
+	0xdd5914
+	0xbee76d
+	0xbdd980
+	0xbfc734
+	0xc634c5
+	0xc7e799
+	0xc5c766
+	0xc2dac0
+	0xc2ede4
+	0x1057974
+	0x1052bea
+	0xdfe5c4
+	0xdedd38
+	0xdf4d9d
+	0xdddee8
+	0xdde0ac
+	0xdc7d2a
+	0x763b7ba9
+	0x77b7c3ab
+	0x77b7c32f
+
+2025-11-11 21:04:17,218 | WARNING | [4] Failed: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xdd58d3
+	0xdd5914
+	0xbee5bb
+	0xc2ceea
+	0xc5c826
+	0xc58090
+	0xc575c3
+	0xbbe4ed
+	0xbbea7e
+	0xbbef3d
+	0x1057974
+	0x1052bea
+	0xdfe5c4
+	0xdedd38
+	0xdf4d9d
+	0xbbe1a3
+	0xbbd858
+	0x11affdf
+	0x763b7ba9
+	0x77b7c3ab
+	0x77b7c32f
+
+2025-11-11 21:04:19,408 | WARNING | [5] Failed: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xdd58d3
+	0xdd5914
+	0xbee5bb
+	0xc2ceea
+	0xc5c826
+	0xc58090
+	0xc575c3
+	0xbbe4ed
+	0xbbea7e
+	0xbbef3d
+	0x1057974
+	0x1052bea
+	0xdfe5c4
+	0xdedd38
+	0xdf4d9d
+	0xbbe1a3
+	0xbbd858
+	0x11affdf
+	0x763b7ba9
+	0x77b7c3ab
+	0x77b7c32f
+
+2025-11-11 21:04:22,859 | WARNING | [6] Failed: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xdd58d3
+	0xdd5914
+	0xbee5bb
+	0xc2ceea
+	0xc5c826
+	0xc58090
+	0xc575c3
+	0xbbe4ed
+	0xbbea7e
+	0xbbef3d
+	0x1057974
+	0x1052bea
+	0xdfe5c4
+	0xdedd38
+	0xdf4d9d
+	0xbbe1a3
+	0xbbd858
+	0x11affdf
+	0x763b7ba9
+	0x77b7c3ab
+	0x77b7c32f
+
+2025-11-11 21:04:25,501 | WARNING | [7] Failed: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xdd58d3
+	0xdd5914
+	0xbee5bb
+	0xc2ceea
+	0xc5c826
+	0xc58090
+	0xc575c3
+	0xbbe4ed
+	0xbbea7e
+	0xbbef3d
+	0x1057974
+	0x1052bea
+	0xdfe5c4
+	0xdedd38
+	0xdf4d9d
+	0xbbe1a3
+	0xbbd858
+	0x11affdf
+	0x763b7ba9
+	0x77b7c3ab
+	0x77b7c32f
+
+2025-11-11 21:04:27,719 | WARNING | [8] Failed: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xdd58d3
+	0xdd5914
+	0xbee5bb
+	0xc2ceea
+	0xc5c826
+	0xc58090
+	0xc575c3
+	0xbbe4ed
+	0xbbea7e
+	0xbbef3d
+	0x1057974
+	0x1052bea
+	0xdfe5c4
+	0xdedd38
+	0xdf4d9d
+	0xbbe1a3
+	0xbbd858
+	0x11affdf
+	0x763b7ba9
+	0x77b7c3ab
+	0x77b7c32f
+
+2025-11-11 21:04:30,120 | WARNING | [9] Failed: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xdd58d3
+	0xdd5914
+	0xbee5bb
+	0xc2ceea
+	0xc5c826
+	0xc58090
+	0xc575c3
+	0xbbe4ed
+	0xbbea7e
+	0xbbef3d
+	0x1057974
+	0x1052bea
+	0xdfe5c4
+	0xdedd38
+	0xdf4d9d
+	0xbbe1a3
+	0xbbd858
+	0x11affdf
+	0x763b7ba9
+	0x77b7c3ab
+	0x77b7c32f
+
+2025-11-11 21:04:32,311 | WARNING | [10] Failed: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xdd58d3
+	0xdd5914
+	0xbee5bb
+	0xc2ceea
+	0xc5c826
+	0xc58090
+	0xc575c3
+	0xbbe4ed
+	0xbbea7e
+	0xbbef3d
+	0x1057974
+	0x1052bea
+	0xdfe5c4
+	0xdedd38
+	0xdf4d9d
+	0xbbe1a3
+	0xbbd858
+	0x11affdf
+	0x763b7ba9
+	0x77b7c3ab
+	0x77b7c32f
+
+2025-11-11 21:04:36,271 | WARNING | [11] Failed: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xdd58d3
+	0xdd5914
+	0xbee5bb
+	0xc2ceea
+	0xc5c826
+	0xc58090
+	0xc575c3
+	0xbbe4ed
+	0xbbea7e
+	0xbbef3d
+	0x1057974
+	0x1052bea
+	0xdfe5c4
+	0xdedd38
+	0xdf4d9d
+	0xbbe1a3
+	0xbbd858
+	0x11affdf
+	0x763b7ba9
+	0x77b7c3ab
+	0x77b7c32f
+
+2025-11-11 21:04:38,776 | WARNING | [12] Failed: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xdd58d3
+	0xdd5914
+	0xbee5bb
+	0xc2ceea
+	0xc5c826
+	0xc58090
+	0xc575c3
+	0xbbe4ed
+	0xbbea7e
+	0xbbef3d
+	0x1057974
+	0x1052bea
+	0xdfe5c4
+	0xdedd38
+	0xdf4d9d
+	0xbbe1a3
+	0xbbd858
+	0x11affdf
+	0x763b7ba9
+	0x77b7c3ab
+	0x77b7c32f
+

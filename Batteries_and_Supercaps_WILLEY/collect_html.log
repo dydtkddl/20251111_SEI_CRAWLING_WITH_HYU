@@ -1,0 +1,8 @@
+2025-11-11 20:58:47,740 | INFO | ====== WebDriver manager ======
+2025-11-11 20:58:49,053 | INFO | Get LATEST chromedriver version for google-chrome
+2025-11-11 20:58:49,176 | INFO | Get LATEST chromedriver version for google-chrome
+2025-11-11 20:58:49,218 | INFO | Driver [C:\Users\PSID_PC_20\.wdm\drivers\chromedriver\win64\142.0.7444.61\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-11 20:59:15,334 | INFO | ====== WebDriver manager ======
+2025-11-11 20:59:16,788 | INFO | Get LATEST chromedriver version for google-chrome
+2025-11-11 20:59:16,836 | INFO | Get LATEST chromedriver version for google-chrome
+2025-11-11 20:59:16,873 | INFO | Driver [C:\Users\PSID_PC_20\.wdm\drivers\chromedriver\win64\142.0.7444.61\chromedriver-win32/chromedriver.exe] found in cache

@@ -1,0 +1,4 @@
+2025/11/11-21:58:46.338 96e4 Reusing MANIFEST D:\20251111_SEI_CRAWLING_WITH_HYU\Batteries_and_Supercaps_WILLEY\pw_profile\Default\IndexedDB\https_chemistry-europe.onlinelibrary.wiley.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/11-21:58:46.339 96e4 Recovering log #162
+2025/11/11-21:58:46.339 96e4 Reusing old log D:\20251111_SEI_CRAWLING_WITH_HYU\Batteries_and_Supercaps_WILLEY\pw_profile\Default\IndexedDB\https_chemistry-europe.onlinelibrary.wiley.com_0.indexeddb.leveldb/000162.log 
+2025/11/11-21:58:46.700 5678 Manual compaction at level-0 from '\x00}\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00~\x00\x00\x00' @ 0 : 0; will stop at (end)

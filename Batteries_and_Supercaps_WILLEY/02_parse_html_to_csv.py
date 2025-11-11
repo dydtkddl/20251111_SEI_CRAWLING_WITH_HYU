@@ -9,7 +9,7 @@ import os, re, pandas as pd
 from bs4 import BeautifulSoup
 from tqdm import tqdm
 
-SRC_DIR = "html_pages"
+SRC_DIR = "wiley_html_pages"
 OUT_CSV = "articles_metadata.csv"
 
 records = []
