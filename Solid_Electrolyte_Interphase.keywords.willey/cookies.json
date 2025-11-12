@@ -1,1 +1,270 @@
-{"cookies": [{"name": "MAID", "value": "X3IRMimho+v1tppZl0dmzg==", "domain": ".onlinelibrary.wiley.com", "path": "/", "expires": 1788837493.637702, "httpOnly": true, "secure": true, "sameSite": "Lax"}, {"name": "demdex", "value": "55545862146183292271678578979935188810", "domain": ".demdex.net", "path": "/", "expires": 1778469495.026392, "httpOnly": false, "secure": true, "sameSite": "None"}, {"name": "userRandomGroup", "value": "14", "domain": ".onlinelibrary.wiley.com", "path": "/", "expires": 1794449690.962155, "httpOnly": true, "secure": true, "sameSite": "Lax"}, {"name": "rskxRunCookie", "value": "0", "domain": ".wiley.com", "path": "/", "expires": 1797477495.650064, "httpOnly": false, "secure": false, "sameSite": "Lax"}, {"name": "rCookie", "value": "h0g9fqmgag4o5avwo1qs6mhvdaokl", "domain": ".wiley.com", "path": "/", "expires": 1797477497.017069, "httpOnly": false, "secure": false, "sameSite": "Lax"}, {"name": "cf_clearance", "value": ".sCF82kpOdIE7sb.TBv.xXQATro8K2EdC7IDmrChcRc-1762914750-1.2.1.1-QuInUYzuKETbX4N5Y7M889uxEH2ioo8KEH2Pej5HHO_FjzN1.iuD1estHhezUBcwDNROUaU03fMRbYTjfoIwWhHNLSZRgRa8ENmjcdR0JwX0mWy19dAEv.ziour66vHWpnDvmmpPN1.VEOF60MkJWms4X0WId23RZTRCyoakH2yVhM.fbkSaYdUppFDEqqHsTyNHfn6wTdN8FnnwjJBlmkNqRtiigQoGYayGEpfw0zg", "domain": ".scienceconnect.io", "path": "/", "expires": 1794450748.799199, "httpOnly": true, "secure": true, "sameSite": "None", "partitionKey": "https://wiley.com", "_crHasCrossSiteAncestor": true}, {"name": "__cf_bm", "value": "dICuz8MeUAas5V_WoB2D96bSbQGA9oa2R2PsRQz9Bt4-1762917472-1.0.1.1-2a2ewCfca9X7gJjpedv23MQkdHFz4AxVal2OBK3TyimCfDklWUcvF.lEI5esnYPvfoZtmlMI1qVweTGhVUTZpgnGE6DsFZ3GfjTBkahDGj7QWdsfYLV_UcLSzw5huG4b", "domain": ".onlinelibrary.wiley.com", "path": "/", "expires": 1762919270.941187, "httpOnly": true, "secure": true, "sameSite": "None"}, {"name": "__cf_bm", "value": "AcdjJ.GQflUu6bELB8RuUkeHXAmdDIOfyrVUG8wdzOQ-1762917473-1.0.1.1-BOviXfJiXfmQjuMZhaJT0QKFLqpJKYovk3_zgYINwhZ1JNcmCWO5G4AIQ_qd8a5ABju_xwlCGl9RBtYFb_0JoAkglzMKdOEvTHcM9TGHVrw", "domain": ".scienceconnect.io", "path": "/", "expires": 1762919272.247665, "httpOnly": true, "secure": true, "sameSite": "None"}, {"name": "cf_clearance", "value": "uDBvnlAVm0Vr6dcGk5kJzY3UXrUfnKn5ep5Kn_ORXOU-1762917473-1.2.1.1-qyti5lEQAHM0PR63B.f379_DJHgC4aCZOsS_nwiMi.f.KKY_qxKzypd4gPDG0bu_kuzYTQ_LrwmOKZdXxZrzBmk77WR.C1nnWMKVsQ2yyr4bmGGWE9rXZa2hvwJdgxC.cy.tbm8uz0sXg5GoJzq69uU003XWZR1ZlvhwnoiOEAquN10H2BV271RUWhz3jVUqn4TTqy9ZTRIDnQUpOPH3ptbuk0C5.CC9zH8bRlRzijU", "domain": ".onlinelibrary.wiley.com", "path": "/", "expires": 1794453472.51267, "httpOnly": true, "secure": true, "sameSite": "None", "partitionKey": "https://wiley.com", "_crHasCrossSiteAncestor": false}, {"name": "MACHINE_LAST_SEEN", "value": "2025-11-11T19%3A18%3A14.676-08%3A00", "domain": ".onlinelibrary.wiley.com", "path": "/", "expires": 1788837493.63778, "httpOnly": true, "secure": true, "sameSite": "Lax"}, {"name": "JSESSIONID", "value": "8085C8BD79B67C1CF7B5F341CED3F382", "domain": ".onlinelibrary.wiley.com", "path": "/", "expires": -1, "httpOnly": true, "secure": true, "sameSite": "None"}, {"name": "iam", "value": "NmJjYzRlMTgtYmQzYi00MmY2LWEyMDAtYWNiNzNkZGNhNmU4", "domain": ".scienceconnect.io", "path": "/", "expires": -1, "httpOnly": true, "secure": true, "sameSite": "None"}, {"name": "lastRskxRun", "value": "1762917495645", "domain": ".wiley.com", "path": "/", "expires": 1797477495.648353, "httpOnly": false, "secure": false, "sameSite": "Lax"}], "origins": [{"origin": "https://onlinelibrary.wiley.com", "localStorage": [{"name": "rCookie", "value": "{\"value\":\"h0g9fqmgag4o5avwo1qs6mhvdaokl\",\"expiration_date\":\"Fri, 12 Nov 2027 03:18:17 GMT\"}"}, {"name": "osano_consentmanager_tattles-cookie", "value": "{\"154\":[]}"}, {"name": "rskxRunCookie", "value": "{\"value\":0,\"expiration_date\":\"Fri, 12 Nov 2027 03:18:15 GMT\"}"}, {"name": "lastRskxRun", "value": "{\"value\":1762917495645,\"expiration_date\":\"Fri, 12 Nov 2027 03:18:15 GMT\"}"}, {"name": "loginStatus", "value": "guest"}, {"name": "osano_consentmanager_tattles-iframe", "value": "{\"154\":[]}"}, {"name": "com.adobe.reactor.core.visitorTracking.cookiesMigrated", "value": "true"}, {"name": "osano_consentmanager_tattles-script", "value": "{\"154\":[\"https://onlinelibrary.wiley.com/pb-assets/pericles-performance-1740278316150.js\"]}"}, {"name": "prePageName", "value": "wol:search:result:articles & chapters"}, {"name": "com.adobe.reactor.core.visitorTracking.sessionCount", "value": "3"}, {"name": "com.adobe.reactor.core.visitorTracking.pagesViewed", "value": "97"}]}]}
+{
+  "cookies": [
+    {
+      "name": "x-served-by",
+      "value": "active",
+      "domain": "wiley.scienceconnect.io",
+      "path": "/api/oauth",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_GRECAPTCHA",
+      "value": "09ADiQh0fJSwxLHlx4TWI5gptDxhjIX663NcfhYLaFRHxnNMnyKplG_F6Hpz32NEAphAS50WqrBWlWxmwc2O3UzPU",
+      "domain": "www.google.com",
+      "path": "/recaptcha",
+      "expires": 1778471128.726551,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MAID",
+      "value": "puimMZE1s20t3PQ9MmH/4A==",
+      "domain": ".onlinelibrary.wiley.com",
+      "path": "/",
+      "expires": 1788839052.479462,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "MACHINE_LAST_SEEN",
+      "value": "2025-11-11T19%3A44%3A13.772-08%3A00",
+      "domain": ".onlinelibrary.wiley.com",
+      "path": "/",
+      "expires": 1788839052.479508,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "9A72BA47ADC333BBCDF69E546D17F741",
+      "domain": ".onlinelibrary.wiley.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "7ruG6jEPAVrjOvidoT19Kg2VCsQdPdYf2pnTffGcB18-1762919053-1.0.1.1-IXnoPa9ZCWIOuVFcMXwMzz2XFYNJE82XFL4mvbnVRlc0ev_Y1xDDJu_p63CJhc_D9CJSY1wWLwOO_uyqkm.jqo.QRrWei6kGS9lPSz92Bt9hS0Jlkap38W3ZRr7eHvyn",
+      "domain": ".onlinelibrary.wiley.com",
+      "path": "/",
+      "expires": 1762920852.479562,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "iam",
+      "value": "NDdjMjJmMTctMDQ3Yy00M2Y5LTg3MDUtY2YwNmVlOWI5ODAw",
+      "domain": ".scienceconnect.io",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "O9eMTjxv_PPWHNGJ.KhMpGK.S7hK.GIuOhb_X8j_2XU-1762919054-1.0.1.1-HZ3nO62f5Oak8ocnO4OJkf6qS2OkWZs7bQssV9NKHimNSTXWoc1W9CdcOBbYuI37R2tr5V3tYDV0lU090dCW22FWbrGkYdwWp8zqCgJefxk",
+      "domain": ".scienceconnect.io",
+      "path": "/",
+      "expires": 1762920852.887055,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AEC",
+      "value": "AaJma5sklFdLTxw6JmOtiWrxKVkU5dQdsFNaYjzsy02Ned8IWnAW84ZAtA",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1778471125.670399,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-STRP",
+      "value": "ADq1D7r8doroJheMWn3iD9hOPkscpe_1j_p8jIdGGU4CC-PG1xzAdeVReXxP0AhtQlNKj8TClWvIjUEXS5V7JJTmR1wVhYmJGXrK",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "NID",
+      "value": "526=Jw5zVEsupo1gtX-vuDjqCuGRYKkcqfAm883UIzdinIVUE8dCKbRddRO4MkPknh8X-tHMoZMT8K92vZV6z3otqtVM_fdqbpc6twDFGHEV22ajzdb5dTLRBeQWTq6PPJwHfTCrJxcgKgVthJeIGt0x5z53Alj11LRrWjqEcZwwAZB8T0sAh-yxinpKdzrpf7Z2kBrdHY07weiNL09VoBV07h9la3KrJvCIErckHuLTDngg7MxJ",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1778730325.287401,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "userRandomGroup",
+      "value": "88",
+      "domain": ".onlinelibrary.wiley.com",
+      "path": "/",
+      "expires": 1794455130.761012,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cf_clearance",
+      "value": "nGScdrnWIhd9ZklT5OYyiodoMB0qMt.V3Xn2y0rD39c-1762919133-1.2.1.1-GG9bjlFqorXRCItVO0y0qSF31MA62cowcStStp1rsHQQnk7iAlakrRlKa6R2LLzTclZlNTMrT9PwQpPbKtrEjuWO8HhaNja.XPcCSxqc5H8ZKS12_VDJ_1U6RyK0Mh8yG_kcRGMTQsaA3s9ExAgjz6QikwCDdSQnLgD.zmLMaCAL_w7d2BwzTdct3gRpMYvRdMmmckhrqKhy3Iq_I5KqvgQduOYvw0r1s.gKi0t6HLY",
+      "domain": ".onlinelibrary.wiley.com",
+      "path": "/",
+      "expires": 1794455131.879684,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://wiley.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "cf_clearance",
+      "value": "CbFgDrMml5LuDL2zs5HqeNFuZt6Zw7TpIzDFaXdFyuE-1762919133-1.2.1.1-uL6wl0jnOqtvR64T3vRQfP1qZyIRvkUss2e3Jn7sYQ6mT_TxwrMezhlDm.41q1V1ANhG8wWum5tl4Q6_0USj1SQujTF9UXA7iTOYiXh4zzBUD9rYdXihpItkzCPKCqOrQJkDpaoPYE_OQqWJLbAuHQTVTz5szC0OR402L6wyUBRsILkyNyQCfTSK9UlMJ_MF6k0MdDfpqEuVIj8WVMjfy1AXQGcHLEZMmTGMFmmeOqw",
+      "domain": ".scienceconnect.io",
+      "path": "/",
+      "expires": 1794455131.964176,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://wiley.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "lastRskxRun",
+      "value": "1762919134023",
+      "domain": ".wiley.com",
+      "path": "/",
+      "expires": 1797479134.027215,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rskxRunCookie",
+      "value": "0",
+      "domain": ".wiley.com",
+      "path": "/",
+      "expires": 1797479134.028963,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rCookie",
+      "value": "d01z0936rqld0uftgxa6smhvgj9l9",
+      "domain": ".wiley.com",
+      "path": "/",
+      "expires": 1797479135.39172,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "osano_consentmanager_uuid",
+      "value": "21f7507d-13de-4f19-8246-523711195972",
+      "domain": ".onlinelibrary.wiley.com",
+      "path": "/",
+      "expires": 1794455142.915654,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "osano_consentmanager",
+      "value": "1FcPXriGWZPcqDZzuid8l0zIYVZ7xd6MddLXWNgSM0NDajHFM2-1y_zfb9Ui2ILQMb57tJoDa4uPsFwRYYtL7ykIjZ1FKVu-qSMiddOfPB0rK6QPdxTnPHiuOdqXQPTHS6CGspwPbHAbOtRsnLO9bav1nmy3PE4ty5bchcX2P46AKV4BwNvJweILb_0woF08royfDihRdsCIk0jR1QvMCmHiQU6bGmlwVq7bU-PNfbUUG7ElsciBuqtv9RG3n5I0iPleB2kKnW0WEH5zXMM8x2oncA1GrC06RA6O5AYqG-Gafi9sG9gpzWtgb-GsygCz",
+      "domain": ".onlinelibrary.wiley.com",
+      "path": "/",
+      "expires": 1794455142.916079,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://advanced.onlinelibrary.wiley.com",
+      "localStorage": [
+        {
+          "name": "rCookie",
+          "value": "{\"value\":\"d01z0936rqld0uftgxa6smhvgj9l9\",\"expiration_date\":\"Fri, 12 Nov 2027 03:45:35 GMT\"}"
+        },
+        {
+          "name": "osano_consentmanager_tattles-cookie",
+          "value": "{\"154\":[]}"
+        },
+        {
+          "name": "osano_consentmanager_uuid",
+          "value": "21f7507d-13de-4f19-8246-523711195972"
+        },
+        {
+          "name": "rskxRunCookie",
+          "value": "{\"value\":0,\"expiration_date\":\"Fri, 12 Nov 2027 03:45:34 GMT\"}"
+        },
+        {
+          "name": "lastRskxRun",
+          "value": "{\"value\":1762919134023,\"expiration_date\":\"Fri, 12 Nov 2027 03:45:34 GMT\"}"
+        },
+        {
+          "name": "loginStatus",
+          "value": "guest"
+        },
+        {
+          "name": "osano_consentmanager_tattles-iframe",
+          "value": "{\"154\":[]}"
+        },
+        {
+          "name": "com.adobe.reactor.core.visitorTracking.cookiesMigrated",
+          "value": "true"
+        },
+        {
+          "name": "osano_consentmanager_tattles-script",
+          "value": "{\"154\":[\"https://advanced.onlinelibrary.wiley.com/pb-assets/pericles-performance-1740278316150.js\"]}"
+        },
+        {
+          "name": "prePageName",
+          "value": "wol advanced:journal-1527-2648:article-10.1002/adem.202501305:full"
+        },
+        {
+          "name": "com.adobe.reactor.core.visitorTracking.sessionCount",
+          "value": "1"
+        },
+        {
+          "name": "osano_consentmanager",
+          "value": "1FcPXriGWZPcqDZzuid8l0zIYVZ7xd6MddLXWNgSM0NDajHFM2-1y_zfb9Ui2ILQMb57tJoDa4uPsFwRYYtL7ykIjZ1FKVu-qSMiddOfPB0rK6QPdxTnPHiuOdqXQPTHS6CGspwPbHAbOtRsnLO9bav1nmy3PE4ty5bchcX2P46AKV4BwNvJweILb_0woF08royfDihRdsCIk0jR1QvMCmHiQU6bGmlwVq7bU-PNfbUUG7ElsciBuqtv9RG3n5I0iPleB2kKnW0WEH5zXMM8x2oncA1GrC06RA6O5AYqG-Gafi9sG9gpzWtgb-GsygCz"
+        },
+        {
+          "name": "com.adobe.reactor.core.visitorTracking.pagesViewed",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "rc::a",
+          "value": "N2RoaGtzMXlwNGl2eA=="
+        },
+        {
+          "name": "rc::f",
+          "value": "0aAPvT5ug5xvC_oiAjEEcEWU8VaBSApqsM4MzyEItkLpEUbh71Qmf0mronwPGEFMMXfO-R2dU"
+        }
+      ]
+    }
+  ]
+}
