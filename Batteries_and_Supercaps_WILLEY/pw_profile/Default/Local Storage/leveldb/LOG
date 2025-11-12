@@ -1,3 +1,6 @@
-2025/11/11-21:45:02.404 5b10 Reusing MANIFEST D:\20251111_SEI_CRAWLING_WITH_HYU\Batteries_and_Supercaps_WILLEY\pw_profile\Default\Local Storage\leveldb/MANIFEST-000001
-2025/11/11-21:45:02.414 5b10 Recovering log #3
-2025/11/11-21:45:02.417 5b10 Reusing old log D:\20251111_SEI_CRAWLING_WITH_HYU\Batteries_and_Supercaps_WILLEY\pw_profile\Default\Local Storage\leveldb/000003.log 
+2025/11/12-11:09:46.515 6970 Reusing MANIFEST D:\20251111_SEI_CRAWLING_WITH_HYU\Batteries_and_Supercaps_WILLEY\pw_profile\Default\Local Storage\leveldb/MANIFEST-000001
+2025/11/12-11:09:46.526 6970 Recovering log #3
+2025/11/12-11:09:46.529 6970 Reusing old log D:\20251111_SEI_CRAWLING_WITH_HYU\Batteries_and_Supercaps_WILLEY\pw_profile\Default\Local Storage\leveldb/000003.log 
+2025/11/12-11:09:54.696 92f0 Level-0 table #5: started
+2025/11/12-11:09:54.743 92f0 Level-0 table #5: 8202 bytes OK
+2025/11/12-11:09:54.828 92f0 Delete type=0 #3

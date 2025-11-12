@@ -1,0 +1,13 @@
+2025/11/12-11:12:43.022 5af4 Reusing MANIFEST D:\20251111_SEI_CRAWLING_WITH_HYU\Solid_Electrolyte_Interphase.keywords.chemistry_europe\pw_profile\Default\IndexedDB\https_chemistry-europe.onlinelibrary.wiley.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/12-11:12:43.023 5af4 Recovering log #14
+2025/11/12-11:12:43.023 5af4 Reusing old log D:\20251111_SEI_CRAWLING_WITH_HYU\Solid_Electrolyte_Interphase.keywords.chemistry_europe\pw_profile\Default\IndexedDB\https_chemistry-europe.onlinelibrary.wiley.com_0.indexeddb.leveldb/000014.log 
+2025/11/12-11:12:43.344 509c Level-0 table #19: started
+2025/11/12-11:12:43.400 509c Level-0 table #19: 9832 bytes OK
+2025/11/12-11:12:43.464 509c Delete type=0 #14
+2025/11/12-11:12:43.465 509c Manual compaction at level-0 from '\x00\x11\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x12\x00\x00\x00' @ 0 : 0; will stop at '\x00\x11\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 1481 : 1
+2025/11/12-11:12:43.465 509c Compacting 1@0 + 1@1 files
+2025/11/12-11:12:43.523 509c Generated table #20@0: 41 keys, 1169 bytes
+2025/11/12-11:12:43.523 509c Compacted 1@0 + 1@1 files => 1169 bytes
+2025/11/12-11:12:43.558 509c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/12-11:12:43.559 509c Delete type=2 #19
+2025/11/12-11:12:43.559 509c Manual compaction at level-0 from '\x00\x11\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 1481 : 1 .. '\x00\x12\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,14 @@
+2025/11/12-12:17:55.260 57d0 Reusing MANIFEST D:\20251111_SEI_CRAWLING_WITH_HYU\Solid_Electrolyte_Interphase.keywords.willey\pw_profile\Default\IndexedDB\https_onlinelibrary.wiley.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/12-12:17:55.260 57d0 Recovering log #150
+2025/11/12-12:17:55.260 57d0 Reusing old log D:\20251111_SEI_CRAWLING_WITH_HYU\Solid_Electrolyte_Interphase.keywords.willey\pw_profile\Default\IndexedDB\https_onlinelibrary.wiley.com_0.indexeddb.leveldb/000150.log 
+2025/11/12-12:17:55.261 57d0 Delete type=2 #148
+2025/11/12-12:17:55.601 57d0 Level-0 table #155: started
+2025/11/12-12:17:55.647 57d0 Level-0 table #155: 1381 bytes OK
+2025/11/12-12:17:55.683 57d0 Delete type=0 #150
+2025/11/12-12:17:55.684 57d0 Manual compaction at level-0 from '\x00`\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00a\x00\x00\x00' @ 0 : 0; will stop at '\x00`\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 8592 : 1
+2025/11/12-12:17:55.684 57d0 Compacting 1@0 + 1@1 files
+2025/11/12-12:17:55.730 57d0 Generated table #156@0: 121 keys, 3255 bytes
+2025/11/12-12:17:55.731 57d0 Compacted 1@0 + 1@1 files => 3255 bytes
+2025/11/12-12:17:55.766 57d0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/12-12:17:55.766 57d0 Delete type=2 #155
+2025/11/12-12:17:55.767 57d0 Manual compaction at level-0 from '\x00`\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 8592 : 1 .. '\x00a\x00\x00\x00' @ 0 : 0; will stop at (end)

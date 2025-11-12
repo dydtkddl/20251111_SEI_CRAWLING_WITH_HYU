@@ -1,4 +1,13 @@
-2025/11/11-21:58:46.338 96e4 Reusing MANIFEST D:\20251111_SEI_CRAWLING_WITH_HYU\Batteries_and_Supercaps_WILLEY\pw_profile\Default\IndexedDB\https_chemistry-europe.onlinelibrary.wiley.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/11/11-21:58:46.339 96e4 Recovering log #162
-2025/11/11-21:58:46.339 96e4 Reusing old log D:\20251111_SEI_CRAWLING_WITH_HYU\Batteries_and_Supercaps_WILLEY\pw_profile\Default\IndexedDB\https_chemistry-europe.onlinelibrary.wiley.com_0.indexeddb.leveldb/000162.log 
-2025/11/11-21:58:46.700 5678 Manual compaction at level-0 from '\x00}\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00~\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/12-11:09:53.475 91cc Reusing MANIFEST D:\20251111_SEI_CRAWLING_WITH_HYU\Batteries_and_Supercaps_WILLEY\pw_profile\Default\IndexedDB\https_chemistry-europe.onlinelibrary.wiley.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/12-11:09:53.477 91cc Recovering log #162
+2025/11/12-11:09:53.477 91cc Reusing old log D:\20251111_SEI_CRAWLING_WITH_HYU\Batteries_and_Supercaps_WILLEY\pw_profile\Default\IndexedDB\https_chemistry-europe.onlinelibrary.wiley.com_0.indexeddb.leveldb/000162.log 
+2025/11/12-11:09:53.743 9c94 Level-0 table #167: started
+2025/11/12-11:09:53.780 9c94 Level-0 table #167: 6191 bytes OK
+2025/11/12-11:09:53.817 9c94 Delete type=0 #162
+2025/11/12-11:09:53.818 9c94 Manual compaction at level-0 from '\x00~\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x7f\x00\x00\x00' @ 0 : 0; will stop at '\x00~\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 11292 : 1
+2025/11/12-11:09:53.819 9c94 Compacting 1@0 + 1@1 files
+2025/11/12-11:09:53.893 9c94 Generated table #168@0: 5 keys, 256 bytes
+2025/11/12-11:09:53.893 9c94 Compacted 1@0 + 1@1 files => 256 bytes
+2025/11/12-11:09:53.927 9c94 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/12-11:09:53.928 9c94 Delete type=2 #167
+2025/11/12-11:09:53.928 9c94 Manual compaction at level-0 from '\x00~\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 11292 : 1 .. '\x00\x7f\x00\x00\x00' @ 0 : 0; will stop at (end)
