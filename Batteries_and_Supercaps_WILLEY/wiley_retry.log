@@ -1,0 +1,300 @@
+2025-11-11 23:01:23,191 | INFO | 🚀 Starting 100 verified re-downloads with 6 workers
+2025-11-11 23:01:23,842 | WARNING | ⚠️ [5] 10.1002/batt.201800012 invalid/403 (attempt 1/3)
+2025-11-11 23:01:23,845 | WARNING | ⚠️ [6] 10.1002/batt.201800013 invalid/403 (attempt 1/3)
+2025-11-11 23:01:23,879 | WARNING | ⚠️ [1] 10.1002/batt.201700001 invalid/403 (attempt 1/3)
+2025-11-11 23:01:24,271 | WARNING | ⚠️ [2] 10.1002/batt.201700002 invalid/403 (attempt 1/3)
+2025-11-11 23:01:28,253 | INFO | 🚀 Starting 100 verified re-downloads with 6 workers
+2025-11-11 23:01:28,345 | WARNING | ⚠️ [3] 10.1002/batt.201700004 invalid/403 (attempt 1/3)
+2025-11-11 23:01:28,350 | WARNING | ⚠️ [4] 10.1002/batt.201700007 invalid/403 (attempt 1/3)
+2025-11-11 23:01:28,609 | WARNING | ⚠️ [5] 10.1002/batt.201800012 invalid/403 (attempt 1/3)
+2025-11-11 23:01:29,012 | WARNING | ⚠️ [1] 10.1002/batt.201700001 invalid/403 (attempt 1/3)
+2025-11-11 23:01:29,022 | WARNING | ⚠️ [6] 10.1002/batt.201800013 invalid/403 (attempt 1/3)
+2025-11-11 23:01:57,027 | INFO | 🚀 Starting 101 verified re-downloads with 6 workers
+2025-11-11 23:01:57,117 | WARNING | ⚠️ [4] 10.1002/batt.201700004 invalid/403 (attempt 1/3)
+2025-11-11 23:01:57,120 | WARNING | ⚠️ [5] 10.1002/batt.201700007 invalid/403 (attempt 1/3)
+2025-11-11 23:01:57,123 | WARNING | ⚠️ [2] 10.1002/batt.201700001 invalid/403 (attempt 1/3)
+2025-11-11 23:01:57,125 | WARNING | ⚠️ [3] 10.1002/batt.201700002 invalid/403 (attempt 1/3)
+2025-11-11 23:01:57,130 | WARNING | ⚠️ [6] 10.1002/batt.201800012 invalid/403 (attempt 1/3)
+2025-11-11 23:01:57,138 | WARNING | ⚠️ [1] 10.1002_batt.201900077 invalid/403 (attempt 1/3)
+2025-11-11 23:01:59,209 | WARNING | ⚠️ [3] 10.1002/batt.201700002 invalid/403 (attempt 2/3)
+2025-11-11 23:01:59,274 | WARNING | ⚠️ [4] 10.1002/batt.201700004 invalid/403 (attempt 2/3)
+2025-11-11 23:01:59,275 | WARNING | ⚠️ [2] 10.1002/batt.201700001 invalid/403 (attempt 2/3)
+2025-11-11 23:01:59,294 | WARNING | ⚠️ [6] 10.1002/batt.201800012 invalid/403 (attempt 2/3)
+2025-11-11 23:02:00,411 | INFO | 🚀 Starting 101 verified re-downloads with 6 workers
+2025-11-11 23:02:00,504 | WARNING | ⚠️ [6] 10.1002/batt.201800012 invalid/403 (attempt 1/3)
+2025-11-11 23:02:00,508 | WARNING | ⚠️ [1] 10.1002_batt.201900077 invalid/403 (attempt 1/3)
+2025-11-11 23:02:00,511 | WARNING | ⚠️ [5] 10.1002/batt.201700007 invalid/403 (attempt 1/3)
+2025-11-11 23:02:00,515 | WARNING | ⚠️ [3] 10.1002/batt.201700002 invalid/403 (attempt 1/3)
+2025-11-11 23:02:00,521 | WARNING | ⚠️ [4] 10.1002/batt.201700004 invalid/403 (attempt 1/3)
+2025-11-11 23:02:00,525 | WARNING | ⚠️ [2] 10.1002/batt.201700001 invalid/403 (attempt 1/3)
+2025-11-11 23:02:02,593 | WARNING | ⚠️ [6] 10.1002/batt.201800012 invalid/403 (attempt 2/3)
+2025-11-11 23:02:02,597 | WARNING | ⚠️ [5] 10.1002/batt.201700007 invalid/403 (attempt 2/3)
+2025-11-11 23:02:02,602 | WARNING | ⚠️ [3] 10.1002/batt.201700002 invalid/403 (attempt 2/3)
+2025-11-11 23:02:02,603 | WARNING | ⚠️ [1] 10.1002_batt.201900077 invalid/403 (attempt 2/3)
+2025-11-11 23:02:02,607 | WARNING | ⚠️ [4] 10.1002/batt.201700004 invalid/403 (attempt 2/3)
+2025-11-11 23:02:02,613 | WARNING | ⚠️ [2] 10.1002/batt.201700001 invalid/403 (attempt 2/3)
+2025-11-11 23:02:04,688 | WARNING | ⚠️ [6] 10.1002/batt.201800012 invalid/403 (attempt 3/3)
+2025-11-11 23:02:04,690 | WARNING | ⚠️ [5] 10.1002/batt.201700007 invalid/403 (attempt 3/3)
+2025-11-11 23:02:04,694 | WARNING | ⚠️ [3] 10.1002/batt.201700002 invalid/403 (attempt 3/3)
+2025-11-11 23:02:04,704 | WARNING | ⚠️ [1] 10.1002_batt.201900077 invalid/403 (attempt 3/3)
+2025-11-11 23:02:04,713 | WARNING | ⚠️ [4] 10.1002/batt.201700004 invalid/403 (attempt 3/3)
+2025-11-11 23:02:04,718 | WARNING | ⚠️ [2] 10.1002/batt.201700001 invalid/403 (attempt 3/3)
+2025-11-11 23:02:06,773 | WARNING | ⚠️ [7] 10.1002/batt.201800013 invalid/403 (attempt 1/3)
+2025-11-11 23:02:06,789 | WARNING | ⚠️ [9] 10.1002/batt.201800018 invalid/403 (attempt 1/3)
+2025-11-11 23:02:06,800 | WARNING | ⚠️ [8] 10.1002/batt.201800014 invalid/403 (attempt 1/3)
+2025-11-11 23:02:06,801 | WARNING | ⚠️ [11] 10.1002/batt.201800024 invalid/403 (attempt 1/3)
+2025-11-11 23:02:06,805 | WARNING | ⚠️ [12] 10.1002/batt.201800029 invalid/403 (attempt 1/3)
+2025-11-11 23:02:06,808 | WARNING | ⚠️ [10] 10.1002/batt.201800022 invalid/403 (attempt 1/3)
+2025-11-11 23:02:08,870 | WARNING | ⚠️ [7] 10.1002/batt.201800013 invalid/403 (attempt 2/3)
+2025-11-11 23:02:08,884 | WARNING | ⚠️ [9] 10.1002/batt.201800018 invalid/403 (attempt 2/3)
+2025-11-11 23:02:08,887 | WARNING | ⚠️ [8] 10.1002/batt.201800014 invalid/403 (attempt 2/3)
+2025-11-11 23:02:08,889 | WARNING | ⚠️ [11] 10.1002/batt.201800024 invalid/403 (attempt 2/3)
+2025-11-11 23:02:08,900 | WARNING | ⚠️ [12] 10.1002/batt.201800029 invalid/403 (attempt 2/3)
+2025-11-11 23:02:08,938 | WARNING | ⚠️ [10] 10.1002/batt.201800022 invalid/403 (attempt 2/3)
+2025-11-11 23:02:10,968 | WARNING | ⚠️ [7] 10.1002/batt.201800013 invalid/403 (attempt 3/3)
+2025-11-11 23:02:10,972 | WARNING | ⚠️ [11] 10.1002/batt.201800024 invalid/403 (attempt 3/3)
+2025-11-11 23:02:10,988 | WARNING | ⚠️ [12] 10.1002/batt.201800029 invalid/403 (attempt 3/3)
+2025-11-11 23:02:11,031 | WARNING | ⚠️ [10] 10.1002/batt.201800022 invalid/403 (attempt 3/3)
+2025-11-11 23:02:11,040 | WARNING | ⚠️ [9] 10.1002/batt.201800018 invalid/403 (attempt 3/3)
+2025-11-11 23:02:11,051 | WARNING | ⚠️ [8] 10.1002/batt.201800014 invalid/403 (attempt 3/3)
+2025-11-11 23:02:13,057 | WARNING | ⚠️ [14] 10.1002/batt.201800037 invalid/403 (attempt 1/3)
+2025-11-11 23:02:13,065 | WARNING | ⚠️ [13] 10.1002/batt.201800036 invalid/403 (attempt 1/3)
+2025-11-11 23:02:13,088 | WARNING | ⚠️ [15] 10.1002/batt.201800042 invalid/403 (attempt 1/3)
+2025-11-11 23:02:13,112 | WARNING | ⚠️ [16] 10.1002/batt.201800043 invalid/403 (attempt 1/3)
+2025-11-11 23:02:13,136 | WARNING | ⚠️ [18] 10.1002/batt.201800045 invalid/403 (attempt 1/3)
+2025-11-11 23:02:13,143 | WARNING | ⚠️ [17] 10.1002/batt.201800044 invalid/403 (attempt 1/3)
+2025-11-11 23:02:15,143 | WARNING | ⚠️ [14] 10.1002/batt.201800037 invalid/403 (attempt 2/3)
+2025-11-11 23:02:15,156 | WARNING | ⚠️ [13] 10.1002/batt.201800036 invalid/403 (attempt 2/3)
+2025-11-11 23:02:15,175 | WARNING | ⚠️ [15] 10.1002/batt.201800042 invalid/403 (attempt 2/3)
+2025-11-11 23:02:15,214 | WARNING | ⚠️ [16] 10.1002/batt.201800043 invalid/403 (attempt 2/3)
+2025-11-11 23:02:15,229 | WARNING | ⚠️ [18] 10.1002/batt.201800045 invalid/403 (attempt 2/3)
+2025-11-11 23:02:15,238 | WARNING | ⚠️ [17] 10.1002/batt.201800044 invalid/403 (attempt 2/3)
+2025-11-11 23:02:17,236 | WARNING | ⚠️ [14] 10.1002/batt.201800037 invalid/403 (attempt 3/3)
+2025-11-11 23:02:17,246 | WARNING | ⚠️ [13] 10.1002/batt.201800036 invalid/403 (attempt 3/3)
+2025-11-11 23:02:17,259 | WARNING | ⚠️ [15] 10.1002/batt.201800042 invalid/403 (attempt 3/3)
+2025-11-11 23:02:17,300 | WARNING | ⚠️ [16] 10.1002/batt.201800043 invalid/403 (attempt 3/3)
+2025-11-11 23:02:17,317 | WARNING | ⚠️ [18] 10.1002/batt.201800045 invalid/403 (attempt 3/3)
+2025-11-11 23:02:17,330 | WARNING | ⚠️ [17] 10.1002/batt.201800044 invalid/403 (attempt 3/3)
+2025-11-11 23:04:58,351 | INFO | 🚀 Starting 101 verified re-downloads with 6 workers
+2025-11-11 23:04:58,447 | WARNING | ⚠️ [1] 10.1002_batt.201900077 invalid/403 (attempt 1/3)
+2025-11-11 23:04:58,452 | WARNING | ⚠️ [6] 10.1002/batt.201800012 invalid/403 (attempt 1/3)
+2025-11-11 23:04:58,452 | WARNING | ⚠️ [3] 10.1002/batt.201700002 invalid/403 (attempt 1/3)
+2025-11-11 23:04:58,455 | WARNING | ⚠️ [4] 10.1002/batt.201700004 invalid/403 (attempt 1/3)
+2025-11-11 23:04:58,466 | WARNING | ⚠️ [5] 10.1002/batt.201700007 invalid/403 (attempt 1/3)
+2025-11-11 23:04:58,466 | WARNING | ⚠️ [2] 10.1002/batt.201700001 invalid/403 (attempt 1/3)
+2025-11-11 23:05:00,543 | WARNING | ⚠️ [6] 10.1002/batt.201800012 invalid/403 (attempt 2/3)
+2025-11-11 23:05:00,546 | WARNING | ⚠️ [3] 10.1002/batt.201700002 invalid/403 (attempt 2/3)
+2025-11-11 23:05:00,548 | WARNING | ⚠️ [1] 10.1002_batt.201900077 invalid/403 (attempt 2/3)
+2025-11-11 23:05:00,563 | WARNING | ⚠️ [5] 10.1002/batt.201700007 invalid/403 (attempt 2/3)
+2025-11-11 23:05:00,564 | WARNING | ⚠️ [2] 10.1002/batt.201700001 invalid/403 (attempt 2/3)
+2025-11-11 23:05:00,567 | WARNING | ⚠️ [4] 10.1002/batt.201700004 invalid/403 (attempt 2/3)
+2025-11-11 23:05:32,509 | INFO | 🚀 Starting 101 verified re-downloads with 6 workers
+2025-11-11 23:05:32,808 | WARNING | ⚠️ [1] 10.1002_batt.201900077 invalid/403 (attempt 1/3)
+2025-11-11 23:05:33,183 | INFO | ✅ [6] OK → wiley_pdfs_retry/10.1002_batt.201800012.pdf
+2025-11-11 23:05:33,394 | INFO | ✅ [3] OK → wiley_pdfs_retry/10.1002_batt.201700002.pdf
+2025-11-11 23:05:33,630 | INFO | ✅ [4] OK → wiley_pdfs_retry/10.1002_batt.201700004.pdf
+2025-11-11 23:05:33,687 | INFO | ✅ [2] OK → wiley_pdfs_retry/10.1002_batt.201700001.pdf
+2025-11-11 23:05:33,865 | INFO | ✅ [5] OK → wiley_pdfs_retry/10.1002_batt.201700007.pdf
+2025-11-11 23:05:33,928 | INFO | ✅ [7] OK → wiley_pdfs_retry/10.1002_batt.201800013.pdf
+2025-11-11 23:05:34,819 | INFO | ✅ [9] OK → wiley_pdfs_retry/10.1002_batt.201800018.pdf
+2025-11-11 23:05:34,907 | INFO | ✅ [12] OK → wiley_pdfs_retry/10.1002_batt.201800029.pdf
+2025-11-11 23:05:35,067 | WARNING | ⚠️ [1] 10.1002_batt.201900077 invalid/403 (attempt 2/3)
+2025-11-11 23:05:35,341 | INFO | ✅ [13] OK → wiley_pdfs_retry/10.1002_batt.201800036.pdf
+2025-11-11 23:05:35,498 | INFO | ✅ [8] OK → wiley_pdfs_retry/10.1002_batt.201800014.pdf
+2025-11-11 23:05:35,757 | INFO | ✅ [14] OK → wiley_pdfs_retry/10.1002_batt.201800037.pdf
+2025-11-11 23:05:35,797 | INFO | ✅ [11] OK → wiley_pdfs_retry/10.1002_batt.201800024.pdf
+2025-11-11 23:05:35,970 | INFO | ✅ [16] OK → wiley_pdfs_retry/10.1002_batt.201800043.pdf
+2025-11-11 23:05:36,241 | INFO | ✅ [17] OK → wiley_pdfs_retry/10.1002_batt.201800044.pdf
+2025-11-11 23:05:36,607 | INFO | ✅ [19] OK → wiley_pdfs_retry/10.1002_batt.201800047.pdf
+2025-11-11 23:05:36,636 | INFO | ✅ [18] OK → wiley_pdfs_retry/10.1002_batt.201800045.pdf
+2025-11-11 23:05:37,266 | INFO | ✅ [22] OK → wiley_pdfs_retry/10.1002_batt.201800073.pdf
+2025-11-11 23:05:37,275 | INFO | ✅ [21] OK → wiley_pdfs_retry/10.1002_batt.201800072.pdf
+2025-11-11 23:05:37,335 | WARNING | ⚠️ [1] 10.1002_batt.201900077 invalid/403 (attempt 3/3)
+2025-11-11 23:05:38,057 | INFO | ✅ [24] OK → wiley_pdfs_retry/10.1002_batt.201800082.pdf
+2025-11-11 23:05:38,063 | INFO | ✅ [10] OK → wiley_pdfs_retry/10.1002_batt.201800022.pdf
+2025-11-11 23:05:38,858 | INFO | ✅ [25] OK → wiley_pdfs_retry/10.1002_batt.201800083.pdf
+2025-11-11 23:05:38,891 | INFO | ✅ [26] OK → wiley_pdfs_retry/10.1002_batt.201800084.pdf
+2025-11-11 23:05:39,178 | INFO | ✅ [15] OK → wiley_pdfs_retry/10.1002_batt.201800042.pdf
+2025-11-11 23:05:39,785 | INFO | ✅ [27] OK → wiley_pdfs_retry/10.1002_batt.201800089.pdf
+2025-11-11 23:05:39,871 | INFO | ✅ [28] OK → wiley_pdfs_retry/10.1002_batt.201800091.pdf
+2025-11-11 23:05:40,000 | INFO | ✅ [29] OK → wiley_pdfs_retry/10.1002_batt.201800092.pdf
+2025-11-11 23:05:40,189 | INFO | ✅ [30] OK → wiley_pdfs_retry/10.1002_batt.201800093.pdf
+2025-11-11 23:05:41,072 | INFO | ✅ [23] OK → wiley_pdfs_retry/10.1002_batt.201800078.pdf
+2025-11-11 23:05:41,410 | INFO | ✅ [34] OK → wiley_pdfs_retry/10.1002_batt.201800098.pdf
+2025-11-11 23:05:41,675 | INFO | ✅ [35] OK → wiley_pdfs_retry/10.1002_batt.201800099.pdf
+2025-11-11 23:05:41,808 | INFO | ✅ [20] OK → wiley_pdfs_retry/10.1002_batt.201800068.pdf
+2025-11-11 23:05:42,047 | INFO | ✅ [36] OK → wiley_pdfs_retry/10.1002_batt.201800102.pdf
+2025-11-11 23:05:42,336 | INFO | ✅ [32] OK → wiley_pdfs_retry/10.1002_batt.201800095.pdf
+2025-11-11 23:05:42,502 | INFO | ✅ [37] OK → wiley_pdfs_retry/10.1002_batt.201800104.pdf
+2025-11-11 23:05:42,530 | INFO | ✅ [39] OK → wiley_pdfs_retry/10.1002_batt.201800106.pdf
+2025-11-11 23:05:42,584 | INFO | ✅ [33] OK → wiley_pdfs_retry/10.1002_batt.201800096.pdf
+2025-11-11 23:05:43,253 | INFO | ✅ [43] OK → wiley_pdfs_retry/10.1002_batt.201800111.pdf
+2025-11-11 23:05:43,280 | INFO | ✅ [42] OK → wiley_pdfs_retry/10.1002_batt.201800109.pdf
+2025-11-11 23:05:43,301 | INFO | ✅ [40] OK → wiley_pdfs_retry/10.1002_batt.201800107.pdf
+2025-11-11 23:05:43,383 | INFO | ✅ [38] OK → wiley_pdfs_retry/10.1002_batt.201800105.pdf
+2025-11-11 23:05:43,784 | INFO | ✅ [44] OK → wiley_pdfs_retry/10.1002_batt.201800112.pdf
+2025-11-11 23:05:44,011 | INFO | ✅ [46] OK → wiley_pdfs_retry/10.1002_batt.201800114.pdf
+2025-11-11 23:05:44,012 | INFO | ✅ [45] OK → wiley_pdfs_retry/10.1002_batt.201800113.pdf
+2025-11-11 23:05:44,270 | INFO | ✅ [47] OK → wiley_pdfs_retry/10.1002_batt.201800115.pdf
+2025-11-11 23:05:44,677 | INFO | ✅ [49] OK → wiley_pdfs_retry/10.1002_batt.201800118.pdf
+2025-11-11 23:05:44,709 | INFO | ✅ [48] OK → wiley_pdfs_retry/10.1002_batt.201800116.pdf
+2025-11-11 23:05:44,777 | INFO | ✅ [50] OK → wiley_pdfs_retry/10.1002_batt.201800119.pdf
+2025-11-11 23:05:44,996 | INFO | ✅ [51] OK → wiley_pdfs_retry/10.1002_batt.201800120.pdf
+2025-11-11 23:05:45,199 | INFO | ✅ [31] OK → wiley_pdfs_retry/10.1002_batt.201800094.pdf
+2025-11-11 23:05:45,285 | INFO | ✅ [52] OK → wiley_pdfs_retry/10.1002_batt.201800121.pdf
+2025-11-11 23:05:45,355 | INFO | ✅ [53] OK → wiley_pdfs_retry/10.1002_batt.201800122.pdf
+2025-11-11 23:05:45,369 | INFO | ✅ [54] OK → wiley_pdfs_retry/10.1002_batt.201800123.pdf
+2025-11-11 23:05:45,380 | INFO | ✅ [41] OK → wiley_pdfs_retry/10.1002_batt.201800108.pdf
+2025-11-11 23:05:45,781 | INFO | ✅ [55] OK → wiley_pdfs_retry/10.1002_batt.201800126.pdf
+2025-11-11 23:05:45,940 | INFO | ✅ [58] OK → wiley_pdfs_retry/10.1002_batt.201800137.pdf
+2025-11-11 23:05:45,942 | INFO | ✅ [59] OK → wiley_pdfs_retry/10.1002_batt.201800138.pdf
+2025-11-11 23:05:46,274 | INFO | ✅ [61] OK → wiley_pdfs_retry/10.1002_batt.201800141.pdf
+2025-11-11 23:05:46,287 | INFO | ✅ [60] OK → wiley_pdfs_retry/10.1002_batt.201800140.pdf
+2025-11-11 23:05:46,385 | INFO | ✅ [62] OK → wiley_pdfs_retry/10.1002_batt.201800142.pdf
+2025-11-11 23:05:46,481 | INFO | ✅ [63] OK → wiley_pdfs_retry/10.1002_batt.201800143.pdf
+2025-11-11 23:05:46,718 | INFO | ✅ [65] OK → wiley_pdfs_retry/10.1002_batt.201800145.pdf
+2025-11-11 23:05:46,731 | INFO | ✅ [64] OK → wiley_pdfs_retry/10.1002_batt.201800144.pdf
+2025-11-11 23:05:46,740 | INFO | ✅ [56] OK → wiley_pdfs_retry/10.1002_batt.201800127.pdf
+2025-11-11 23:05:46,830 | INFO | ✅ [66] OK → wiley_pdfs_retry/10.1002_batt.201800146.pdf
+2025-11-11 23:05:47,239 | INFO | ✅ [68] OK → wiley_pdfs_retry/10.1002_batt.201800148.pdf
+2025-11-11 23:05:47,391 | INFO | ✅ [70] OK → wiley_pdfs_retry/10.1002_batt.201800150.pdf
+2025-11-11 23:05:47,474 | INFO | ✅ [71] OK → wiley_pdfs_retry/10.1002_batt.201800152.pdf
+2025-11-11 23:05:47,535 | INFO | ✅ [67] OK → wiley_pdfs_retry/10.1002_batt.201800147.pdf
+2025-11-11 23:05:47,932 | INFO | ✅ [74] OK → wiley_pdfs_retry/10.1002_batt.201900006.pdf
+2025-11-11 23:05:48,030 | INFO | ✅ [75] OK → wiley_pdfs_retry/10.1002_batt.201900007.pdf
+2025-11-11 23:05:48,211 | INFO | ✅ [73] OK → wiley_pdfs_retry/10.1002_batt.201900005.pdf
+2025-11-11 23:05:48,399 | INFO | ✅ [76] OK → wiley_pdfs_retry/10.1002_batt.201900008.pdf
+2025-11-11 23:05:48,639 | INFO | ✅ [77] OK → wiley_pdfs_retry/10.1002_batt.201900010.pdf
+2025-11-11 23:05:48,877 | INFO | ✅ [78] OK → wiley_pdfs_retry/10.1002_batt.201900011.pdf
+2025-11-11 23:05:48,931 | INFO | ✅ [69] OK → wiley_pdfs_retry/10.1002_batt.201800149.pdf
+2025-11-11 23:05:49,378 | INFO | ✅ [72] OK → wiley_pdfs_retry/10.1002_batt.201900001.pdf
+2025-11-11 23:05:49,665 | INFO | ✅ [80] OK → wiley_pdfs_retry/10.1002_batt.201900014.pdf
+2025-11-11 23:05:49,673 | INFO | ✅ [79] OK → wiley_pdfs_retry/10.1002_batt.201900012.pdf
+2025-11-11 23:05:49,912 | INFO | ✅ [82] OK → wiley_pdfs_retry/10.1002_batt.201900017.pdf
+2025-11-11 23:05:50,236 | INFO | ✅ [85] OK → wiley_pdfs_retry/10.1002_batt.201900020.pdf
+2025-11-11 23:05:50,279 | INFO | ✅ [84] OK → wiley_pdfs_retry/10.1002_batt.201900019.pdf
+2025-11-11 23:05:50,369 | INFO | ✅ [86] OK → wiley_pdfs_retry/10.1002_batt.201900022.pdf
+2025-11-11 23:05:50,747 | INFO | ✅ [88] OK → wiley_pdfs_retry/10.1002_batt.201900026.pdf
+2025-11-11 23:05:50,790 | INFO | ✅ [87] OK → wiley_pdfs_retry/10.1002_batt.201900025.pdf
+2025-11-11 23:05:50,892 | INFO | ✅ [89] OK → wiley_pdfs_retry/10.1002_batt.201900027.pdf
+2025-11-11 23:05:51,184 | INFO | ✅ [90] OK → wiley_pdfs_retry/10.1002_batt.201900028.pdf
+2025-11-11 23:05:51,375 | INFO | ✅ [92] OK → wiley_pdfs_retry/10.1002_batt.201900035.pdf
+2025-11-11 23:05:51,429 | INFO | ✅ [91] OK → wiley_pdfs_retry/10.1002_batt.201900030.pdf
+2025-11-11 23:05:51,896 | INFO | ✅ [95] OK → wiley_pdfs_retry/10.1002_batt.201900040.pdf
+2025-11-11 23:05:52,095 | INFO | ✅ [94] OK → wiley_pdfs_retry/10.1002_batt.201900039.pdf
+2025-11-11 23:05:52,229 | INFO | ✅ [93] OK → wiley_pdfs_retry/10.1002_batt.201900038.pdf
+2025-11-11 23:05:52,308 | INFO | ✅ [96] OK → wiley_pdfs_retry/10.1002_batt.201900041.pdf
+2025-11-11 23:05:52,582 | INFO | ✅ [97] OK → wiley_pdfs_retry/10.1002_batt.201900042.pdf
+2025-11-11 23:05:52,741 | INFO | ✅ [98] OK → wiley_pdfs_retry/10.1002_batt.201900043.pdf
+2025-11-11 23:05:52,760 | INFO | ✅ [99] OK → wiley_pdfs_retry/10.1002_batt.201900048.pdf
+2025-11-11 23:05:53,223 | INFO | ✅ [101] OK → wiley_pdfs_retry/10.1002_batt.201900061.pdf
+2025-11-11 23:05:53,914 | INFO | ✅ [100] OK → wiley_pdfs_retry/10.1002_batt.201900050.pdf
+2025-11-11 23:05:54,669 | INFO | ✅ [81] OK → wiley_pdfs_retry/10.1002_batt.201900015.pdf
+2025-11-11 23:05:55,071 | INFO | ✅ [83] OK → wiley_pdfs_retry/10.1002_batt.201900018.pdf
+2025-11-11 23:05:56,125 | INFO | ✅ [57] OK → wiley_pdfs_retry/10.1002_batt.201800133.pdf
+2025-11-11 23:05:56,302 | INFO | 🧾 Saved → wiley_retry_results.csv
+2025-11-11 23:06:55,890 | INFO | 🚀 Starting 101 verified re-downloads with 6 workers
+2025-11-11 23:06:56,237 | WARNING | ⚠️ [1] 10.1002_batt.201900077 invalid/403 (attempt 1/3)
+2025-11-11 23:07:59,509 | INFO | 🚀 Starting 101 verified re-downloads with 6 workers
+2025-11-11 23:07:59,977 | INFO | ✅ [4] OK → wiley_pdfs_retry/10.1002_batt.201700004.pdf
+2025-11-11 23:08:00,303 | INFO | ✅ [5] OK → wiley_pdfs_retry/10.1002_batt.201700007.pdf
+2025-11-11 23:08:00,406 | INFO | ✅ [1] OK → wiley_pdfs_retry/10.1002_batt.201900077.pdf
+2025-11-11 23:08:00,574 | INFO | ✅ [2] OK → wiley_pdfs_retry/10.1002_batt.201700001.pdf
+2025-11-11 23:08:00,586 | INFO | ✅ [6] OK → wiley_pdfs_retry/10.1002_batt.201800012.pdf
+2025-11-11 23:08:00,887 | INFO | ✅ [3] OK → wiley_pdfs_retry/10.1002_batt.201700002.pdf
+2025-11-11 23:08:01,296 | INFO | ✅ [7] OK → wiley_pdfs_retry/10.1002_batt.201800013.pdf
+2025-11-11 23:08:01,570 | INFO | ✅ [12] OK → wiley_pdfs_retry/10.1002_batt.201800029.pdf
+2025-11-11 23:08:01,669 | INFO | ✅ [13] OK → wiley_pdfs_retry/10.1002_batt.201800036.pdf
+2025-11-11 23:08:01,918 | INFO | ✅ [14] OK → wiley_pdfs_retry/10.1002_batt.201800037.pdf
+2025-11-11 23:08:02,104 | INFO | ✅ [9] OK → wiley_pdfs_retry/10.1002_batt.201800018.pdf
+2025-11-11 23:08:02,201 | INFO | ✅ [10] OK → wiley_pdfs_retry/10.1002_batt.201800022.pdf
+2025-11-11 23:08:02,450 | INFO | ✅ [16] OK → wiley_pdfs_retry/10.1002_batt.201800043.pdf
+2025-11-11 23:08:02,833 | INFO | ✅ [15] OK → wiley_pdfs_retry/10.1002_batt.201800042.pdf
+2025-11-11 23:08:02,907 | INFO | ✅ [17] OK → wiley_pdfs_retry/10.1002_batt.201800044.pdf
+2025-11-11 23:08:02,954 | INFO | ✅ [19] OK → wiley_pdfs_retry/10.1002_batt.201800047.pdf
+2025-11-11 23:08:03,396 | INFO | ✅ [21] OK → wiley_pdfs_retry/10.1002_batt.201800072.pdf
+2025-11-11 23:08:03,472 | INFO | ✅ [22] OK → wiley_pdfs_retry/10.1002_batt.201800073.pdf
+2025-11-11 23:08:03,877 | INFO | ✅ [23] OK → wiley_pdfs_retry/10.1002_batt.201800078.pdf
+2025-11-11 23:08:03,927 | INFO | ✅ [20] OK → wiley_pdfs_retry/10.1002_batt.201800068.pdf
+2025-11-11 23:08:03,964 | INFO | ✅ [24] OK → wiley_pdfs_retry/10.1002_batt.201800082.pdf
+2025-11-11 23:08:04,348 | INFO | ✅ [27] OK → wiley_pdfs_retry/10.1002_batt.201800089.pdf
+2025-11-11 23:08:04,466 | INFO | ✅ [25] OK → wiley_pdfs_retry/10.1002_batt.201800083.pdf
+2025-11-11 23:08:05,143 | INFO | ✅ [28] OK → wiley_pdfs_retry/10.1002_batt.201800091.pdf
+2025-11-11 23:08:05,363 | INFO | ✅ [26] OK → wiley_pdfs_retry/10.1002_batt.201800084.pdf
+2025-11-11 23:08:05,489 | INFO | ✅ [29] OK → wiley_pdfs_retry/10.1002_batt.201800092.pdf
+2025-11-11 23:08:05,835 | INFO | ✅ [30] OK → wiley_pdfs_retry/10.1002_batt.201800093.pdf
+2025-11-11 23:08:06,010 | INFO | ✅ [32] OK → wiley_pdfs_retry/10.1002_batt.201800095.pdf
+2025-11-11 23:08:06,257 | INFO | ✅ [33] OK → wiley_pdfs_retry/10.1002_batt.201800096.pdf
+2025-11-11 23:08:06,278 | INFO | ✅ [31] OK → wiley_pdfs_retry/10.1002_batt.201800094.pdf
+2025-11-11 23:08:06,625 | INFO | ✅ [34] OK → wiley_pdfs_retry/10.1002_batt.201800098.pdf
+2025-11-11 23:08:06,659 | INFO | ✅ [8] OK → wiley_pdfs_retry/10.1002_batt.201800014.pdf
+2025-11-11 23:08:06,702 | INFO | ✅ [35] OK → wiley_pdfs_retry/10.1002_batt.201800099.pdf
+2025-11-11 23:08:06,793 | INFO | ✅ [36] OK → wiley_pdfs_retry/10.1002_batt.201800102.pdf
+2025-11-11 23:08:07,195 | INFO | ✅ [38] OK → wiley_pdfs_retry/10.1002_batt.201800105.pdf
+2025-11-11 23:08:07,436 | INFO | ✅ [37] OK → wiley_pdfs_retry/10.1002_batt.201800104.pdf
+2025-11-11 23:08:07,885 | INFO | ✅ [42] OK → wiley_pdfs_retry/10.1002_batt.201800109.pdf
+2025-11-11 23:08:08,138 | INFO | ✅ [40] OK → wiley_pdfs_retry/10.1002_batt.201800107.pdf
+2025-11-11 23:08:08,231 | INFO | ✅ [43] OK → wiley_pdfs_retry/10.1002_batt.201800111.pdf
+2025-11-11 23:08:08,247 | INFO | ✅ [41] OK → wiley_pdfs_retry/10.1002_batt.201800108.pdf
+2025-11-11 23:08:08,515 | INFO | ✅ [44] OK → wiley_pdfs_retry/10.1002_batt.201800112.pdf
+2025-11-11 23:08:08,638 | INFO | ✅ [39] OK → wiley_pdfs_retry/10.1002_batt.201800106.pdf
+2025-11-11 23:08:08,788 | INFO | ✅ [46] OK → wiley_pdfs_retry/10.1002_batt.201800114.pdf
+2025-11-11 23:08:08,910 | INFO | ✅ [45] OK → wiley_pdfs_retry/10.1002_batt.201800113.pdf
+2025-11-11 23:08:08,955 | INFO | ✅ [47] OK → wiley_pdfs_retry/10.1002_batt.201800115.pdf
+2025-11-11 23:08:09,192 | INFO | ✅ [49] OK → wiley_pdfs_retry/10.1002_batt.201800118.pdf
+2025-11-11 23:08:09,355 | INFO | ✅ [50] OK → wiley_pdfs_retry/10.1002_batt.201800119.pdf
+2025-11-11 23:08:09,582 | INFO | ✅ [51] OK → wiley_pdfs_retry/10.1002_batt.201800120.pdf
+2025-11-11 23:08:09,627 | INFO | ✅ [52] OK → wiley_pdfs_retry/10.1002_batt.201800121.pdf
+2025-11-11 23:08:09,849 | INFO | ✅ [53] OK → wiley_pdfs_retry/10.1002_batt.201800122.pdf
+2025-11-11 23:08:10,047 | INFO | ✅ [54] OK → wiley_pdfs_retry/10.1002_batt.201800123.pdf
+2025-11-11 23:08:10,119 | INFO | ✅ [55] OK → wiley_pdfs_retry/10.1002_batt.201800126.pdf
+2025-11-11 23:08:10,435 | INFO | ✅ [56] OK → wiley_pdfs_retry/10.1002_batt.201800127.pdf
+2025-11-11 23:08:10,562 | INFO | ✅ [58] OK → wiley_pdfs_retry/10.1002_batt.201800137.pdf
+2025-11-11 23:08:10,633 | INFO | ✅ [57] OK → wiley_pdfs_retry/10.1002_batt.201800133.pdf
+2025-11-11 23:08:10,855 | INFO | ✅ [59] OK → wiley_pdfs_retry/10.1002_batt.201800138.pdf
+2025-11-11 23:08:11,278 | INFO | ✅ [62] OK → wiley_pdfs_retry/10.1002_batt.201800142.pdf
+2025-11-11 23:08:11,753 | INFO | ✅ [63] OK → wiley_pdfs_retry/10.1002_batt.201800143.pdf
+2025-11-11 23:08:12,163 | INFO | ✅ [64] OK → wiley_pdfs_retry/10.1002_batt.201800144.pdf
+2025-11-11 23:08:12,245 | INFO | ✅ [61] OK → wiley_pdfs_retry/10.1002_batt.201800141.pdf
+2025-11-11 23:08:12,536 | INFO | ✅ [65] OK → wiley_pdfs_retry/10.1002_batt.201800145.pdf
+2025-11-11 23:08:12,594 | INFO | ✅ [66] OK → wiley_pdfs_retry/10.1002_batt.201800146.pdf
+2025-11-11 23:08:13,157 | INFO | ✅ [68] OK → wiley_pdfs_retry/10.1002_batt.201800148.pdf
+2025-11-11 23:08:13,567 | INFO | ✅ [69] OK → wiley_pdfs_retry/10.1002_batt.201800149.pdf
+2025-11-11 23:08:14,147 | INFO | ✅ [70] OK → wiley_pdfs_retry/10.1002_batt.201800150.pdf
+2025-11-11 23:08:14,678 | INFO | ✅ [71] OK → wiley_pdfs_retry/10.1002_batt.201800152.pdf
+2025-11-11 23:08:15,256 | INFO | ✅ [72] OK → wiley_pdfs_retry/10.1002_batt.201900001.pdf
+2025-11-11 23:08:15,722 | INFO | ✅ [73] OK → wiley_pdfs_retry/10.1002_batt.201900005.pdf
+2025-11-11 23:08:16,085 | INFO | ✅ [74] OK → wiley_pdfs_retry/10.1002_batt.201900006.pdf
+2025-11-11 23:08:16,416 | INFO | ✅ [60] OK → wiley_pdfs_retry/10.1002_batt.201800140.pdf
+2025-11-11 23:08:16,462 | INFO | ✅ [75] OK → wiley_pdfs_retry/10.1002_batt.201900007.pdf
+2025-11-11 23:08:16,994 | INFO | ✅ [76] OK → wiley_pdfs_retry/10.1002_batt.201900008.pdf
+2025-11-11 23:08:17,156 | INFO | ✅ [18] OK → wiley_pdfs_retry/10.1002_batt.201800045.pdf
+2025-11-11 23:08:17,157 | INFO | ✅ [77] OK → wiley_pdfs_retry/10.1002_batt.201900010.pdf
+2025-11-11 23:08:17,546 | INFO | ✅ [78] OK → wiley_pdfs_retry/10.1002_batt.201900011.pdf
+2025-11-11 23:08:17,667 | INFO | ✅ [80] OK → wiley_pdfs_retry/10.1002_batt.201900014.pdf
+2025-11-11 23:08:17,949 | INFO | ✅ [79] OK → wiley_pdfs_retry/10.1002_batt.201900012.pdf
+2025-11-11 23:08:18,138 | INFO | ✅ [82] OK → wiley_pdfs_retry/10.1002_batt.201900017.pdf
+2025-11-11 23:08:18,211 | INFO | ✅ [81] OK → wiley_pdfs_retry/10.1002_batt.201900015.pdf
+2025-11-11 23:08:18,378 | INFO | ✅ [83] OK → wiley_pdfs_retry/10.1002_batt.201900018.pdf
+2025-11-11 23:08:18,741 | INFO | ✅ [84] OK → wiley_pdfs_retry/10.1002_batt.201900019.pdf
+2025-11-11 23:08:19,134 | INFO | ✅ [85] OK → wiley_pdfs_retry/10.1002_batt.201900020.pdf
+2025-11-11 23:08:19,177 | INFO | ✅ [87] OK → wiley_pdfs_retry/10.1002_batt.201900025.pdf
+2025-11-11 23:08:19,187 | INFO | ✅ [86] OK → wiley_pdfs_retry/10.1002_batt.201900022.pdf
+2025-11-11 23:08:19,503 | INFO | ✅ [89] OK → wiley_pdfs_retry/10.1002_batt.201900027.pdf
+2025-11-11 23:08:19,509 | INFO | ✅ [88] OK → wiley_pdfs_retry/10.1002_batt.201900026.pdf
+2025-11-11 23:08:19,512 | INFO | ✅ [90] OK → wiley_pdfs_retry/10.1002_batt.201900028.pdf
+2025-11-11 23:08:19,873 | INFO | ✅ [93] OK → wiley_pdfs_retry/10.1002_batt.201900038.pdf
+2025-11-11 23:08:20,261 | INFO | ✅ [94] OK → wiley_pdfs_retry/10.1002_batt.201900039.pdf
+2025-11-11 23:08:20,636 | INFO | ✅ [95] OK → wiley_pdfs_retry/10.1002_batt.201900040.pdf
+2025-11-11 23:08:21,698 | INFO | ✅ [92] OK → wiley_pdfs_retry/10.1002_batt.201900035.pdf
+2025-11-11 23:08:22,030 | INFO | ✅ [97] OK → wiley_pdfs_retry/10.1002_batt.201900042.pdf
+2025-11-11 23:08:22,416 | INFO | ✅ [98] OK → wiley_pdfs_retry/10.1002_batt.201900043.pdf
+2025-11-11 23:08:22,682 | INFO | ✅ [67] OK → wiley_pdfs_retry/10.1002_batt.201800147.pdf
+2025-11-11 23:08:22,771 | INFO | ✅ [99] OK → wiley_pdfs_retry/10.1002_batt.201900048.pdf
+2025-11-11 23:08:22,838 | INFO | ✅ [96] OK → wiley_pdfs_retry/10.1002_batt.201900041.pdf
+2025-11-11 23:08:23,123 | INFO | ✅ [101] OK → wiley_pdfs_retry/10.1002_batt.201900061.pdf
+2025-11-11 23:08:23,171 | INFO | ✅ [100] OK → wiley_pdfs_retry/10.1002_batt.201900050.pdf
+2025-11-11 23:08:25,205 | INFO | ✅ [91] OK → wiley_pdfs_retry/10.1002_batt.201900030.pdf
+2025-11-11 23:08:31,128 | INFO | ✅ [48] OK → wiley_pdfs_retry/10.1002_batt.201800116.pdf
+2025-11-11 23:08:33,523 | INFO | ✅ [11] OK → wiley_pdfs_retry/10.1002_batt.201800024.pdf
+2025-11-11 23:08:33,699 | INFO | 🧾 Saved → wiley_retry_results.csv
