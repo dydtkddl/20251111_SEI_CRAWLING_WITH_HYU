@@ -1,0 +1,20 @@
+python azib_experimental_evidence_finder_v19_ollama_commercial.py ^
+  --input_dir 02_supplementary_md ^
+  --output_csv out_v19_ollama.csv ^
+  --only_true ^
+  --min_proc_zn 3 ^
+  --keep_context 2 ^
+  --llm_backend ollama ^
+  --ollama_url http://localhost:11434 ^
+  --llm_model qwen2.5:14b-instruct ^
+  --llm_refine_tags ^
+  --llm_recipe_miner ^
+  --llm_timeout 180 ^
+  --llm_max_calls_per_doc 14 ^
+  --llm_cache_dir .\.ollama_cache ^
+  --extended_csv ^
+  --out_json out_v19.json ^
+  --out_jsonl out_v19.jsonl ^
+  --min_proc_zn 2 ^
+  --log_level DEBUG ^
+  --log_file run_v19_debug.log

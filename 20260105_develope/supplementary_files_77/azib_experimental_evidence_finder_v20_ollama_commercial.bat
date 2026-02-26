@@ -1,0 +1,27 @@
+python azib_experimental_evidence_finder_v20_ollama_commercial.py ^
+  --input_dir "02_supplementary_md" ^
+  --output_csv "out_v20_supp_balanced.csv" ^
+  --out_json "out_v20_supp_balanced.json" ^
+  --out_jsonl "out_v20_supp_balanced.jsonl" ^
+  --min_proc_zn 2 ^
+  --keep_context 2 ^
+  --min_block_chars 45 ^
+  --min_block_words 6 ^
+  --sectionless_top_k_paras 45 ^
+  --sectionless_min_score 2 ^
+  --llm_backend ollama ^
+  --ollama_url "http://localhost:11434" ^
+  --llm_model "qwen2.5:14b-instruct" ^
+  --llm_refine_tags ^
+  --llm_recipe_miner ^
+  --llm_noise_gate ^
+  --llm_gate_model "llama3.2:3b" ^
+  --llm_timeout 240 ^
+  --llm_max_calls_per_doc 18 ^
+  --llm_num_ctx 4096 ^
+  --llm_temperature 0.0 ^
+  --llm_top_p 0.9 ^
+  --llm_cache_dir ".\.ollama_cache" ^
+  --extended_csv ^
+  --log_level INFO ^
+  --log_file "run_v20_supp_balanced.log"

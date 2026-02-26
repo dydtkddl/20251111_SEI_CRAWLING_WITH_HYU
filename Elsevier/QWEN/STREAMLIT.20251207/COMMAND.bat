@@ -1,0 +1,1 @@
+streamlit run app.py  --server.port 8502 --server.baseUrlPath=SEI --server.enableXsrfProtection=false

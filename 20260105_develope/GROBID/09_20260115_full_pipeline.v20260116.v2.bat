@@ -1,0 +1,15 @@
+python 09_20260115_full_pipeline.v20260116.v2.py ^
+  --pii_list 09_20260115_full_pipeline.pii_list.txt ^
+  --xml_dir ../../Elsevier/xmls_meta_abs ^
+  --pdf_dir ../pdfs_77 ^
+  --supp_dir ../supplementary_files_77/02_supplementary ^
+  --out_dir ./09_20260115_full_pipeline_output ^
+  --grobid_host localhost ^
+  --grobid_port 8080 ^
+  --ollama_mode http ^
+  --ollama_url http://localhost:11434 ^
+  --llm_model qwen2.5:14b-instruct ^
+  --save_prompts ^
+  --save_section_prompts ^
+  --max_sections_to_process 5 ^
+  --max_evidence_chars 8000

@@ -1,0 +1,109 @@
+# Domain keywords for AZIB ex-situ protective layer extraction
+# Used by retrieval.py and evidence_packet.py for chunk ranking
+
+thickness:
+  - "thickness"
+  - "layer thickness"
+  - "coating thickness"
+  - "μm"
+  - "micrometer"
+  - "film thickness"
+
+ion_conductivity:
+  - "ionic conductivity"
+  - "ion conductivity"
+  - "conductivity"
+  - "mS cm"
+  - "μS cm"
+  - "S/cm"
+
+contact_angle:
+  - "contact angle"
+  - "wettability"
+  - "hydrophilic"
+  - "hydrophobic"
+  - "water droplet"
+
+cycling:
+  - "cycling stability"
+  - "cycle life"
+  - "symmetric cell"
+  - "Zn||Zn"
+  - "plating/stripping"
+  - "plating stripping"
+  - "galvanostatic"
+  - "lifespan"
+  - "stable for"
+  - "h"
+  - "hours"
+
+corrosion:
+  - "Tafel"
+  - "polarization"
+  - "corrosion potential"
+  - "Ecorr"
+  - "corrosion current"
+  - "icorr"
+  - "linear polarization"
+  - "potentiodynamic"
+
+eis:
+  - "EIS"
+  - "Nyquist"
+  - "Rct"
+  - "Rs"
+  - "charge transfer resistance"
+  - "solution resistance"
+  - "impedance"
+  - "equivalent circuit"
+  - "semicircle"
+
+overpotential:
+  - "overpotential"
+  - "nucleation overpotential"
+  - "η"
+  - "voltage hysteresis"
+  - "polarization"
+
+zn_affinity:
+  - "zincophilicity"
+  - "adsorption energy"
+  - "binding energy"
+  - "Zn affinity"
+  - "DFT"
+  - "density functional theory"
+  - "first principles"
+
+coating_fabrication:
+  - "coating"
+  - "deposition"
+  - "spin-coating"
+  - "dip-coating"
+  - "electrodeposition"
+  - "sputtering"
+  - "ALD"
+  - "CVD"
+  - "layer"
+  - "protected"
+  - "modified"
+
+material_identity:
+  - "polymer"
+  - "graphene"
+  - "MOF"
+  - "metal-organic framework"
+  - "carbon"
+  - "oxide"
+  - "composite"
+  - "nanoparticle"
+  - "film"
+
+electrolyte:
+  - "ZnSO4"
+  - "Zn(CF3SO3)2"
+  - "ZnCl2"
+  - "electrolyte"
+  - "aqueous"
+  - "concentration"
+  - "M"
+  - "mol/L"

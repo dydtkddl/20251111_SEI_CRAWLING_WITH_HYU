@@ -1,0 +1,13 @@
+*
+!*/
+!*.py
+!*.ipynb
+!*.sh
+!*.bat
+!*.yaml
+!*.toml
+!*.gitignore
+!README*
+pw_profile/
+__pycache__/
+.ipynb_checkpoints/
